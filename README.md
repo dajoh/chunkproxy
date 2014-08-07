@@ -59,4 +59,4 @@ $ chunkproxy -dir cache2 -pooladdr 127.0.0.1:7272 -webaddr :8282 -coord http://e
 License
 -------
 
-If you want to use chunkproxy in your application or on your website, please contact me.
+If you want to use chunkproxy in your application or on your website, please contact me!
